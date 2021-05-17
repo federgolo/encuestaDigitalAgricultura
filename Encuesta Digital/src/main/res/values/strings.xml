@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Encuesta Digital</string>
+    <string name="edit_message">Enter asd</string>
+    <string name="button_send">SEND</string>
+</resources>
